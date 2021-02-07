@@ -1,0 +1,2 @@
+# Analysis-checker
+we are working on solving a problem related to health issue. by providing you with a small app which will ask you for typing your result of a certain analysis you don't understand whether you are doing well or not, and if you, it will suggest you the best doctor to visit according to your case. note: The app will be updated in the future with more sorts of analysis in order to provide a sufficient experience!
